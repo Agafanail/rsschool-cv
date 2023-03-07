@@ -54,7 +54,7 @@ I have no experience at frontend development. That's why I want to find a traine
 
 **University:** Minsk Theological Academy
 
-**Courses:** 
+**Courses:** RS School stage 0
 
 ## Languages
 
